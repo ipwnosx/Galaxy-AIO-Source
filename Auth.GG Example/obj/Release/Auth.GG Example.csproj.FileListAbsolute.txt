@@ -1,0 +1,142 @@
+C:\Users\saikm\Desktop\SliceAIO\New ZuttPal'\Auth.GG Example\bin\Release\ZuttPal.exe.config
+C:\Users\saikm\Desktop\SliceAIO\New ZuttPal'\Auth.GG Example\bin\Release\ZuttPal.exe
+C:\Users\saikm\Desktop\SliceAIO\New ZuttPal'\Auth.GG Example\bin\Release\ZuttPal.pdb
+C:\Users\saikm\Desktop\SliceAIO\New ZuttPal'\Auth.GG Example\bin\Release\Anarchy.dll
+C:\Users\saikm\Desktop\SliceAIO\New ZuttPal'\Auth.GG Example\bin\Release\Colorful.Console.dll
+C:\Users\saikm\Desktop\SliceAIO\New ZuttPal'\Auth.GG Example\bin\Release\Discord.Net.Core.dll
+C:\Users\saikm\Desktop\SliceAIO\New ZuttPal'\Auth.GG Example\bin\Release\Discord.Net.Rest.dll
+C:\Users\saikm\Desktop\SliceAIO\New ZuttPal'\Auth.GG Example\bin\Release\Discord.Net.Webhook.dll
+C:\Users\saikm\Desktop\SliceAIO\New ZuttPal'\Auth.GG Example\bin\Release\Discord.Net.WebSocket.dll
+C:\Users\saikm\Desktop\SliceAIO\New ZuttPal'\Auth.GG Example\bin\Release\DiscordRPC.dll
+C:\Users\saikm\Desktop\SliceAIO\New ZuttPal'\Auth.GG Example\bin\Release\Extreme.Net.dll
+C:\Users\saikm\Desktop\SliceAIO\New ZuttPal'\Auth.GG Example\bin\Release\Leaf.xNet.dll
+C:\Users\saikm\Desktop\SliceAIO\New ZuttPal'\Auth.GG Example\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\saikm\Desktop\SliceAIO\New ZuttPal'\Auth.GG Example\bin\Release\Newtonsoft.Json.dll
+C:\Users\saikm\Desktop\SliceAIO\New ZuttPal'\Auth.GG Example\bin\Release\RestSharp.dll
+C:\Users\saikm\Desktop\SliceAIO\New ZuttPal'\Auth.GG Example\bin\Release\System.Collections.Immutable.dll
+C:\Users\saikm\Desktop\SliceAIO\New ZuttPal'\Auth.GG Example\bin\Release\System.Interactive.Async.dll
+C:\Users\saikm\Desktop\SliceAIO\New ZuttPal'\Auth.GG Example\bin\Release\System.Linq.Async.dll
+C:\Users\saikm\Desktop\SliceAIO\New ZuttPal'\Auth.GG Example\bin\Release\System.Net.Http.Formatting.dll
+C:\Users\saikm\Desktop\SliceAIO\New ZuttPal'\Auth.GG Example\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\saikm\Desktop\SliceAIO\New ZuttPal'\Auth.GG Example\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\saikm\Desktop\SliceAIO\New ZuttPal'\Auth.GG Example\bin\Release\websocket-sharp.dll
+C:\Users\saikm\Desktop\SliceAIO\New ZuttPal'\Auth.GG Example\bin\Release\Discord.Net.Core.xml
+C:\Users\saikm\Desktop\SliceAIO\New ZuttPal'\Auth.GG Example\bin\Release\Discord.Net.Rest.xml
+C:\Users\saikm\Desktop\SliceAIO\New ZuttPal'\Auth.GG Example\bin\Release\Discord.Net.Webhook.xml
+C:\Users\saikm\Desktop\SliceAIO\New ZuttPal'\Auth.GG Example\bin\Release\Discord.Net.WebSocket.xml
+C:\Users\saikm\Desktop\SliceAIO\New ZuttPal'\Auth.GG Example\bin\Release\DiscordRPC.pdb
+C:\Users\saikm\Desktop\SliceAIO\New ZuttPal'\Auth.GG Example\bin\Release\DiscordRPC.xml
+C:\Users\saikm\Desktop\SliceAIO\New ZuttPal'\Auth.GG Example\bin\Release\Leaf.xNet.xml
+C:\Users\saikm\Desktop\SliceAIO\New ZuttPal'\Auth.GG Example\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\saikm\Desktop\SliceAIO\New ZuttPal'\Auth.GG Example\bin\Release\Newtonsoft.Json.xml
+C:\Users\saikm\Desktop\SliceAIO\New ZuttPal'\Auth.GG Example\bin\Release\RestSharp.xml
+C:\Users\saikm\Desktop\SliceAIO\New ZuttPal'\Auth.GG Example\bin\Release\System.Collections.Immutable.xml
+C:\Users\saikm\Desktop\SliceAIO\New ZuttPal'\Auth.GG Example\bin\Release\System.Interactive.Async.xml
+C:\Users\saikm\Desktop\SliceAIO\New ZuttPal'\Auth.GG Example\bin\Release\System.Linq.Async.xml
+C:\Users\saikm\Desktop\SliceAIO\New ZuttPal'\Auth.GG Example\bin\Release\System.Net.Http.Formatting.xml
+C:\Users\saikm\Desktop\SliceAIO\New ZuttPal'\Auth.GG Example\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\saikm\Desktop\SliceAIO\New ZuttPal'\Auth.GG Example\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\saikm\Desktop\SliceAIO\New ZuttPal'\Auth.GG Example\obj\Release\Auth.GG Example.csproj.CoreCompileInputs.cache
+C:\Users\saikm\Desktop\SliceAIO\New ZuttPal'\Auth.GG Example\obj\Release\Auth.GG Example.csproj.CopyComplete
+C:\Users\saikm\Desktop\SliceAIO\New ZuttPal'\Auth.GG Example\obj\Release\ZuttPal.exe
+C:\Users\saikm\Desktop\SliceAIO\New ZuttPal'\Auth.GG Example\obj\Release\ZuttPal.pdb
+C:\Users\saikm\Desktop\New ZuttPal'\Auth.GG Example\bin\Release\Anarchy.dll
+C:\Users\saikm\Desktop\New ZuttPal'\Auth.GG Example\bin\Release\Colorful.Console.dll
+C:\Users\saikm\Desktop\New ZuttPal'\Auth.GG Example\bin\Release\Discord.Net.Core.dll
+C:\Users\saikm\Desktop\New ZuttPal'\Auth.GG Example\bin\Release\Discord.Net.Rest.dll
+C:\Users\saikm\Desktop\New ZuttPal'\Auth.GG Example\bin\Release\Discord.Net.Webhook.dll
+C:\Users\saikm\Desktop\New ZuttPal'\Auth.GG Example\bin\Release\Discord.Net.WebSocket.dll
+C:\Users\saikm\Desktop\New ZuttPal'\Auth.GG Example\bin\Release\DiscordRPC.dll
+C:\Users\saikm\Desktop\New ZuttPal'\Auth.GG Example\bin\Release\Extreme.Net.dll
+C:\Users\saikm\Desktop\New ZuttPal'\Auth.GG Example\bin\Release\Leaf.xNet.dll
+C:\Users\saikm\Desktop\New ZuttPal'\Auth.GG Example\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\saikm\Desktop\New ZuttPal'\Auth.GG Example\bin\Release\Newtonsoft.Json.dll
+C:\Users\saikm\Desktop\New ZuttPal'\Auth.GG Example\bin\Release\RestSharp.dll
+C:\Users\saikm\Desktop\New ZuttPal'\Auth.GG Example\bin\Release\System.Collections.Immutable.dll
+C:\Users\saikm\Desktop\New ZuttPal'\Auth.GG Example\bin\Release\System.Interactive.Async.dll
+C:\Users\saikm\Desktop\New ZuttPal'\Auth.GG Example\bin\Release\System.Linq.Async.dll
+C:\Users\saikm\Desktop\New ZuttPal'\Auth.GG Example\bin\Release\System.Net.Http.Formatting.dll
+C:\Users\saikm\Desktop\New ZuttPal'\Auth.GG Example\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\saikm\Desktop\New ZuttPal'\Auth.GG Example\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\saikm\Desktop\New ZuttPal'\Auth.GG Example\bin\Release\websocket-sharp.dll
+C:\Users\saikm\Desktop\New ZuttPal'\Auth.GG Example\bin\Release\Discord.Net.Core.xml
+C:\Users\saikm\Desktop\New ZuttPal'\Auth.GG Example\bin\Release\Discord.Net.Rest.xml
+C:\Users\saikm\Desktop\New ZuttPal'\Auth.GG Example\bin\Release\Discord.Net.Webhook.xml
+C:\Users\saikm\Desktop\New ZuttPal'\Auth.GG Example\bin\Release\Discord.Net.WebSocket.xml
+C:\Users\saikm\Desktop\New ZuttPal'\Auth.GG Example\bin\Release\DiscordRPC.pdb
+C:\Users\saikm\Desktop\New ZuttPal'\Auth.GG Example\bin\Release\DiscordRPC.xml
+C:\Users\saikm\Desktop\New ZuttPal'\Auth.GG Example\bin\Release\Leaf.xNet.xml
+C:\Users\saikm\Desktop\New ZuttPal'\Auth.GG Example\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\saikm\Desktop\New ZuttPal'\Auth.GG Example\bin\Release\Newtonsoft.Json.xml
+C:\Users\saikm\Desktop\New ZuttPal'\Auth.GG Example\bin\Release\RestSharp.xml
+C:\Users\saikm\Desktop\New ZuttPal'\Auth.GG Example\bin\Release\System.Collections.Immutable.xml
+C:\Users\saikm\Desktop\New ZuttPal'\Auth.GG Example\bin\Release\System.Interactive.Async.xml
+C:\Users\saikm\Desktop\New ZuttPal'\Auth.GG Example\bin\Release\System.Linq.Async.xml
+C:\Users\saikm\Desktop\New ZuttPal'\Auth.GG Example\bin\Release\System.Net.Http.Formatting.xml
+C:\Users\saikm\Desktop\New ZuttPal'\Auth.GG Example\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\saikm\Desktop\New ZuttPal'\Auth.GG Example\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\saikm\Desktop\New ZuttPal'\Auth.GG Example\obj\Release\Auth.GG Example.csproj.CoreCompileInputs.cache
+C:\Users\saikm\Desktop\New ZuttPal'\Auth.GG Example\obj\Release\Auth.GG Example.csproj.CopyComplete
+C:\Users\saikm\Desktop\New ZuttPal'\Auth.GG Example\bin\Release\Galaxy.exe.config
+C:\Users\saikm\Desktop\New ZuttPal'\Auth.GG Example\bin\Release\Galaxy.exe
+C:\Users\saikm\Desktop\New ZuttPal'\Auth.GG Example\bin\Release\Galaxy.pdb
+C:\Users\saikm\Desktop\New ZuttPal'\Auth.GG Example\obj\Release\Galaxy.exe
+C:\Users\saikm\Desktop\New ZuttPal'\Auth.GG Example\obj\Release\Galaxy.pdb
+C:\Users\saikm\Desktop\New ZuttPal'\Auth.GG Example\obj\Release\Auth.GG Example.csprojAssemblyReference.cache
+C:\Users\saikm\Desktop\Galaxy\Auth.GG Example\bin\Release\Galaxy.exe.config
+C:\Users\saikm\Desktop\Galaxy\Auth.GG Example\bin\Release\Galaxy.exe
+C:\Users\saikm\Desktop\Galaxy\Auth.GG Example\bin\Release\Galaxy.pdb
+C:\Users\saikm\Desktop\Galaxy\Auth.GG Example\bin\Release\Anarchy.dll
+C:\Users\saikm\Desktop\Galaxy\Auth.GG Example\bin\Release\Antlr3.Runtime.dll
+C:\Users\saikm\Desktop\Galaxy\Auth.GG Example\bin\Release\Colorful.Console.dll
+C:\Users\saikm\Desktop\Galaxy\Auth.GG Example\bin\Release\discord-webhook-client.dll
+C:\Users\saikm\Desktop\Galaxy\Auth.GG Example\bin\Release\Discord.Net.Core.dll
+C:\Users\saikm\Desktop\Galaxy\Auth.GG Example\bin\Release\Discord.Net.Rest.dll
+C:\Users\saikm\Desktop\Galaxy\Auth.GG Example\bin\Release\Discord.Net.Webhook.dll
+C:\Users\saikm\Desktop\Galaxy\Auth.GG Example\bin\Release\Discord.Net.WebSocket.dll
+C:\Users\saikm\Desktop\Galaxy\Auth.GG Example\bin\Release\DiscordRPC.dll
+C:\Users\saikm\Desktop\Galaxy\Auth.GG Example\bin\Release\Extreme.Net.dll
+C:\Users\saikm\Desktop\Galaxy\Auth.GG Example\bin\Release\Flurl.dll
+C:\Users\saikm\Desktop\Galaxy\Auth.GG Example\bin\Release\Flurl.Http.dll
+C:\Users\saikm\Desktop\Galaxy\Auth.GG Example\bin\Release\JeremyAnsel.IO.Locator.dll
+C:\Users\saikm\Desktop\Galaxy\Auth.GG Example\bin\Release\Leaf.xNet.dll
+C:\Users\saikm\Desktop\Galaxy\Auth.GG Example\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\saikm\Desktop\Galaxy\Auth.GG Example\bin\Release\notifique-me.dll
+C:\Users\saikm\Desktop\Galaxy\Auth.GG Example\bin\Release\Polly.dll
+C:\Users\saikm\Desktop\Galaxy\Auth.GG Example\bin\Release\RestSharp.dll
+C:\Users\saikm\Desktop\Galaxy\Auth.GG Example\bin\Release\SharpCompress.dll
+C:\Users\saikm\Desktop\Galaxy\Auth.GG Example\bin\Release\System.Collections.Immutable.dll
+C:\Users\saikm\Desktop\Galaxy\Auth.GG Example\bin\Release\System.Interactive.Async.dll
+C:\Users\saikm\Desktop\Galaxy\Auth.GG Example\bin\Release\System.Linq.Async.dll
+C:\Users\saikm\Desktop\Galaxy\Auth.GG Example\bin\Release\System.Net.Http.Formatting.dll
+C:\Users\saikm\Desktop\Galaxy\Auth.GG Example\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\saikm\Desktop\Galaxy\Auth.GG Example\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\saikm\Desktop\Galaxy\Auth.GG Example\bin\Release\WebGrease.dll
+C:\Users\saikm\Desktop\Galaxy\Auth.GG Example\bin\Release\websocket-sharp.dll
+C:\Users\saikm\Desktop\Galaxy\Auth.GG Example\bin\Release\Antlr3.Runtime.pdb
+C:\Users\saikm\Desktop\Galaxy\Auth.GG Example\bin\Release\Discord.Net.Core.xml
+C:\Users\saikm\Desktop\Galaxy\Auth.GG Example\bin\Release\Discord.Net.Rest.xml
+C:\Users\saikm\Desktop\Galaxy\Auth.GG Example\bin\Release\Discord.Net.Webhook.xml
+C:\Users\saikm\Desktop\Galaxy\Auth.GG Example\bin\Release\Discord.Net.WebSocket.xml
+C:\Users\saikm\Desktop\Galaxy\Auth.GG Example\bin\Release\DiscordRPC.pdb
+C:\Users\saikm\Desktop\Galaxy\Auth.GG Example\bin\Release\DiscordRPC.xml
+C:\Users\saikm\Desktop\Galaxy\Auth.GG Example\bin\Release\Flurl.xml
+C:\Users\saikm\Desktop\Galaxy\Auth.GG Example\bin\Release\Flurl.Http.xml
+C:\Users\saikm\Desktop\Galaxy\Auth.GG Example\bin\Release\JeremyAnsel.IO.Locator.xml
+C:\Users\saikm\Desktop\Galaxy\Auth.GG Example\bin\Release\Leaf.xNet.xml
+C:\Users\saikm\Desktop\Galaxy\Auth.GG Example\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\saikm\Desktop\Galaxy\Auth.GG Example\bin\Release\Polly.pdb
+C:\Users\saikm\Desktop\Galaxy\Auth.GG Example\bin\Release\Polly.xml
+C:\Users\saikm\Desktop\Galaxy\Auth.GG Example\bin\Release\RestSharp.xml
+C:\Users\saikm\Desktop\Galaxy\Auth.GG Example\bin\Release\System.Collections.Immutable.xml
+C:\Users\saikm\Desktop\Galaxy\Auth.GG Example\bin\Release\System.Interactive.Async.xml
+C:\Users\saikm\Desktop\Galaxy\Auth.GG Example\bin\Release\System.Linq.Async.xml
+C:\Users\saikm\Desktop\Galaxy\Auth.GG Example\bin\Release\System.Net.Http.Formatting.xml
+C:\Users\saikm\Desktop\Galaxy\Auth.GG Example\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\saikm\Desktop\Galaxy\Auth.GG Example\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\saikm\Desktop\Galaxy\Auth.GG Example\obj\Release\Galaxy.exe.config
+C:\Users\saikm\Desktop\Galaxy\Auth.GG Example\obj\Release\Auth.GG Example.csproj.CoreCompileInputs.cache
+C:\Users\saikm\Desktop\Galaxy\Auth.GG Example\obj\Release\Auth.GG Example.csproj.CopyComplete
+C:\Users\saikm\Desktop\Galaxy\Auth.GG Example\obj\Release\Galaxy.exe
+C:\Users\saikm\Desktop\Galaxy\Auth.GG Example\obj\Release\Galaxy.pdb
+C:\Users\saikm\Desktop\Galaxy\Auth.GG Example\obj\Release\Auth.GG Example.csprojAssemblyReference.cache

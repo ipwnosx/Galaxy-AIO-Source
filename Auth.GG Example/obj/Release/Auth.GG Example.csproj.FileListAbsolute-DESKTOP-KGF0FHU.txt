@@ -1,0 +1,243 @@
+C:\Users\ygupp20elitor\OneDrive - Thorengruppen\Dokument\ZuttPal\Auth.GG-CSharp-master\Auth.GG Example\bin\Release\ZuttPal.exe.config
+C:\Users\ygupp20elitor\OneDrive - Thorengruppen\Dokument\ZuttPal\Auth.GG-CSharp-master\Auth.GG Example\bin\Release\ZuttPal.exe
+C:\Users\ygupp20elitor\OneDrive - Thorengruppen\Dokument\ZuttPal\Auth.GG-CSharp-master\Auth.GG Example\bin\Release\ZuttPal.pdb
+C:\Users\ygupp20elitor\OneDrive - Thorengruppen\Dokument\ZuttPal\Auth.GG-CSharp-master\Auth.GG Example\bin\Release\Colorful.Console.dll
+C:\Users\ygupp20elitor\OneDrive - Thorengruppen\Dokument\ZuttPal\Auth.GG-CSharp-master\Auth.GG Example\bin\Release\Leaf.xNet.dll
+C:\Users\ygupp20elitor\OneDrive - Thorengruppen\Dokument\ZuttPal\Auth.GG-CSharp-master\Auth.GG Example\bin\Release\Newtonsoft.Json.dll
+C:\Users\ygupp20elitor\OneDrive - Thorengruppen\Dokument\ZuttPal\Auth.GG-CSharp-master\Auth.GG Example\bin\Release\Leaf.xNet.xml
+C:\Users\ygupp20elitor\OneDrive - Thorengruppen\Dokument\ZuttPal\Auth.GG-CSharp-master\Auth.GG Example\bin\Release\Newtonsoft.Json.xml
+C:\Users\ygupp20elitor\OneDrive - Thorengruppen\Dokument\ZuttPal\Auth.GG-CSharp-master\Auth.GG Example\obj\Release\Auth.GG Example.csprojAssemblyReference.cache
+C:\Users\ygupp20elitor\OneDrive - Thorengruppen\Dokument\ZuttPal\Auth.GG-CSharp-master\Auth.GG Example\obj\Release\Auth.GG Example.csproj.CoreCompileInputs.cache
+C:\Users\ygupp20elitor\OneDrive - Thorengruppen\Dokument\ZuttPal\Auth.GG-CSharp-master\Auth.GG Example\obj\Release\Auth.GG Example.csproj.CopyComplete
+C:\Users\ygupp20elitor\OneDrive - Thorengruppen\Dokument\ZuttPal\Auth.GG-CSharp-master\Auth.GG Example\obj\Release\ZuttPal.exe
+C:\Users\ygupp20elitor\OneDrive - Thorengruppen\Dokument\ZuttPal\Auth.GG-CSharp-master\Auth.GG Example\obj\Release\ZuttPal.pdb
+C:\Users\ygupp20elitor\OneDrive - Thorengruppen\Dokument\ZuttPal\Auth.GG-CSharp-master\Auth.GG Example\bin\Release\System.Net.Http.Formatting.dll
+C:\Users\ygupp20elitor\OneDrive - Thorengruppen\Dokument\ZuttPal\Auth.GG-CSharp-master\Auth.GG Example\bin\Release\System.Net.Http.Formatting.xml
+C:\Users\ygupp20elitor\3D Objects\Sun AIO\Sun AIO\Auth.GG Example\obj\Release\Auth.GG Example.csprojAssemblyReference.cache
+C:\Users\ygupp20elitor\3D Objects\Sun AIO\Sun AIO\Auth.GG Example\obj\Release\ZuttPal.exe.config
+C:\Users\ygupp20elitor\3D Objects\Sun AIO\Sun AIO\Auth.GG Example\obj\Release\Auth.GG Example.csproj.CoreCompileInputs.cache
+C:\Users\ygupp20elitor\3D Objects\Sun AIO\Sun AIO\Auth.GG Example\obj\Release\ZuttPal.exe
+C:\Users\ygupp20elitor\3D Objects\Sun AIO\Sun AIO\Auth.GG Example\obj\Release\ZuttPal.pdb
+C:\Users\ygupp20elitor\3D Objects\Sun AIO\Sun AIO\Auth.GG Example\bin\Release\ZuttPal.exe.config
+C:\Users\ygupp20elitor\3D Objects\Sun AIO\Sun AIO\Auth.GG Example\bin\Release\ZuttPal.exe
+C:\Users\ygupp20elitor\3D Objects\Sun AIO\Sun AIO\Auth.GG Example\bin\Release\ZuttPal.pdb
+C:\Users\ygupp20elitor\3D Objects\Sun AIO\Sun AIO\Auth.GG Example\bin\Release\Colorful.Console.dll
+C:\Users\ygupp20elitor\3D Objects\Sun AIO\Sun AIO\Auth.GG Example\bin\Release\Leaf.xNet.dll
+C:\Users\ygupp20elitor\3D Objects\Sun AIO\Sun AIO\Auth.GG Example\bin\Release\Newtonsoft.Json.dll
+C:\Users\ygupp20elitor\3D Objects\Sun AIO\Sun AIO\Auth.GG Example\bin\Release\System.Net.Http.Formatting.dll
+C:\Users\ygupp20elitor\3D Objects\Sun AIO\Sun AIO\Auth.GG Example\bin\Release\Leaf.xNet.xml
+C:\Users\ygupp20elitor\3D Objects\Sun AIO\Sun AIO\Auth.GG Example\bin\Release\Newtonsoft.Json.xml
+C:\Users\ygupp20elitor\3D Objects\Sun AIO\Sun AIO\Auth.GG Example\bin\Release\System.Net.Http.Formatting.xml
+C:\Users\ygupp20elitor\3D Objects\Sun AIO\Sun AIO\Auth.GG Example\obj\Release\Auth.GG Example.csproj.CopyComplete
+C:\Users\ygupp20elitor\3D Objects\Sun AIO - kopia - kopia\Sun AIO\Auth.GG Example\bin\Release\ZuttPal.exe.config
+C:\Users\ygupp20elitor\3D Objects\Sun AIO - kopia - kopia\Sun AIO\Auth.GG Example\bin\Release\ZuttPal.exe
+C:\Users\ygupp20elitor\3D Objects\Sun AIO - kopia - kopia\Sun AIO\Auth.GG Example\bin\Release\ZuttPal.pdb
+C:\Users\ygupp20elitor\3D Objects\Sun AIO - kopia - kopia\Sun AIO\Auth.GG Example\bin\Release\Colorful.Console.dll
+C:\Users\ygupp20elitor\3D Objects\Sun AIO - kopia - kopia\Sun AIO\Auth.GG Example\bin\Release\Leaf.xNet.dll
+C:\Users\ygupp20elitor\3D Objects\Sun AIO - kopia - kopia\Sun AIO\Auth.GG Example\bin\Release\Newtonsoft.Json.dll
+C:\Users\ygupp20elitor\3D Objects\Sun AIO - kopia - kopia\Sun AIO\Auth.GG Example\bin\Release\System.Net.Http.Formatting.dll
+C:\Users\ygupp20elitor\3D Objects\Sun AIO - kopia - kopia\Sun AIO\Auth.GG Example\bin\Release\Leaf.xNet.xml
+C:\Users\ygupp20elitor\3D Objects\Sun AIO - kopia - kopia\Sun AIO\Auth.GG Example\bin\Release\Newtonsoft.Json.xml
+C:\Users\ygupp20elitor\3D Objects\Sun AIO - kopia - kopia\Sun AIO\Auth.GG Example\bin\Release\System.Net.Http.Formatting.xml
+C:\Users\ygupp20elitor\3D Objects\Sun AIO - kopia - kopia\Sun AIO\Auth.GG Example\obj\Release\Auth.GG Example.csproj.CoreCompileInputs.cache
+C:\Users\ygupp20elitor\3D Objects\Sun AIO - kopia - kopia\Sun AIO\Auth.GG Example\obj\Release\Auth.GG Example.csproj.CopyComplete
+C:\Users\ygupp20elitor\3D Objects\Sun AIO - kopia - kopia\Sun AIO\Auth.GG Example\obj\Release\ZuttPal.exe
+C:\Users\ygupp20elitor\3D Objects\Sun AIO - kopia - kopia\Sun AIO\Auth.GG Example\obj\Release\ZuttPal.pdb
+C:\Users\ygupp20elitor\3D Objects\Sun AIO - kopia - kopia\Sun AIO\Auth.GG Example\bin\Release\DiscordRPC.dll
+C:\Users\ygupp20elitor\3D Objects\Sun AIO - kopia - kopia\Sun AIO\Auth.GG Example\bin\Release\DiscordRPC.pdb
+C:\Users\ygupp20elitor\3D Objects\Sun AIO - kopia - kopia\Sun AIO\Auth.GG Example\bin\Release\DiscordRPC.xml
+C:\Users\ygupp20elitor\3D Objects\Sun AIO - kopia - kopia\Sun AIO\Auth.GG Example\bin\Release\Discord.Net.Core.dll
+C:\Users\ygupp20elitor\3D Objects\Sun AIO - kopia - kopia\Sun AIO\Auth.GG Example\bin\Release\Discord.Net.Rest.dll
+C:\Users\ygupp20elitor\3D Objects\Sun AIO - kopia - kopia\Sun AIO\Auth.GG Example\bin\Release\Discord.Net.Webhook.dll
+C:\Users\ygupp20elitor\3D Objects\Sun AIO - kopia - kopia\Sun AIO\Auth.GG Example\bin\Release\Discord.Net.WebSocket.dll
+C:\Users\ygupp20elitor\3D Objects\Sun AIO - kopia - kopia\Sun AIO\Auth.GG Example\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ygupp20elitor\3D Objects\Sun AIO - kopia - kopia\Sun AIO\Auth.GG Example\bin\Release\System.Collections.Immutable.dll
+C:\Users\ygupp20elitor\3D Objects\Sun AIO - kopia - kopia\Sun AIO\Auth.GG Example\bin\Release\System.Interactive.Async.dll
+C:\Users\ygupp20elitor\3D Objects\Sun AIO - kopia - kopia\Sun AIO\Auth.GG Example\bin\Release\System.Linq.Async.dll
+C:\Users\ygupp20elitor\3D Objects\Sun AIO - kopia - kopia\Sun AIO\Auth.GG Example\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ygupp20elitor\3D Objects\Sun AIO - kopia - kopia\Sun AIO\Auth.GG Example\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\ygupp20elitor\3D Objects\Sun AIO - kopia - kopia\Sun AIO\Auth.GG Example\bin\Release\Discord.Net.Core.xml
+C:\Users\ygupp20elitor\3D Objects\Sun AIO - kopia - kopia\Sun AIO\Auth.GG Example\bin\Release\Discord.Net.Rest.xml
+C:\Users\ygupp20elitor\3D Objects\Sun AIO - kopia - kopia\Sun AIO\Auth.GG Example\bin\Release\Discord.Net.Webhook.xml
+C:\Users\ygupp20elitor\3D Objects\Sun AIO - kopia - kopia\Sun AIO\Auth.GG Example\bin\Release\Discord.Net.WebSocket.xml
+C:\Users\ygupp20elitor\3D Objects\Sun AIO - kopia - kopia\Sun AIO\Auth.GG Example\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ygupp20elitor\3D Objects\Sun AIO - kopia - kopia\Sun AIO\Auth.GG Example\bin\Release\System.Collections.Immutable.xml
+C:\Users\ygupp20elitor\3D Objects\Sun AIO - kopia - kopia\Sun AIO\Auth.GG Example\bin\Release\System.Interactive.Async.xml
+C:\Users\ygupp20elitor\3D Objects\Sun AIO - kopia - kopia\Sun AIO\Auth.GG Example\bin\Release\System.Linq.Async.xml
+C:\Users\ygupp20elitor\3D Objects\Sun AIO - kopia - kopia\Sun AIO\Auth.GG Example\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ygupp20elitor\3D Objects\Sun AIO - kopia - kopia\Sun AIO\Auth.GG Example\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\ygupp20elitor\3D Objects\Sun AIO - kopia - kopia\Sun AIO\Auth.GG Example\bin\Release\Anarchy.dll
+C:\Users\ygupp20elitor\3D Objects\Sun AIO - kopia - kopia\Sun AIO\Auth.GG Example\bin\Release\websocket-sharp.dll
+C:\Users\ygupp20elitor\3D Objects\Sun AIO - kopia - kopia\Sun AIO\Auth.GG Example\obj\Release\Auth.GG Example.csprojAssemblyReference.cache
+C:\Users\ygupp20elitor\3D Objects\Sun AIO - kopia - kopia\Sun AIO\Auth.GG Example\bin\Release\RestSharp.dll
+C:\Users\ygupp20elitor\3D Objects\Sun AIO - kopia - kopia\Sun AIO\Auth.GG Example\bin\Release\RestSharp.xml
+C:\Users\ygupp20elitor\OneDrive - Thorengruppen\Skrivbordet\Sun AIO - kopia - kopia\Sun AIO\Auth.GG Example\bin\Release\ZuttPal.exe.config
+C:\Users\ygupp20elitor\OneDrive - Thorengruppen\Skrivbordet\Sun AIO - kopia - kopia\Sun AIO\Auth.GG Example\bin\Release\ZuttPal.exe
+C:\Users\ygupp20elitor\OneDrive - Thorengruppen\Skrivbordet\Sun AIO - kopia - kopia\Sun AIO\Auth.GG Example\bin\Release\ZuttPal.pdb
+C:\Users\ygupp20elitor\OneDrive - Thorengruppen\Skrivbordet\Sun AIO - kopia - kopia\Sun AIO\Auth.GG Example\bin\Release\Anarchy.dll
+C:\Users\ygupp20elitor\OneDrive - Thorengruppen\Skrivbordet\Sun AIO - kopia - kopia\Sun AIO\Auth.GG Example\bin\Release\Colorful.Console.dll
+C:\Users\ygupp20elitor\OneDrive - Thorengruppen\Skrivbordet\Sun AIO - kopia - kopia\Sun AIO\Auth.GG Example\bin\Release\Discord.Net.Core.dll
+C:\Users\ygupp20elitor\OneDrive - Thorengruppen\Skrivbordet\Sun AIO - kopia - kopia\Sun AIO\Auth.GG Example\bin\Release\Discord.Net.Rest.dll
+C:\Users\ygupp20elitor\OneDrive - Thorengruppen\Skrivbordet\Sun AIO - kopia - kopia\Sun AIO\Auth.GG Example\bin\Release\Discord.Net.Webhook.dll
+C:\Users\ygupp20elitor\OneDrive - Thorengruppen\Skrivbordet\Sun AIO - kopia - kopia\Sun AIO\Auth.GG Example\bin\Release\Discord.Net.WebSocket.dll
+C:\Users\ygupp20elitor\OneDrive - Thorengruppen\Skrivbordet\Sun AIO - kopia - kopia\Sun AIO\Auth.GG Example\bin\Release\DiscordRPC.dll
+C:\Users\ygupp20elitor\OneDrive - Thorengruppen\Skrivbordet\Sun AIO - kopia - kopia\Sun AIO\Auth.GG Example\bin\Release\Leaf.xNet.dll
+C:\Users\ygupp20elitor\OneDrive - Thorengruppen\Skrivbordet\Sun AIO - kopia - kopia\Sun AIO\Auth.GG Example\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ygupp20elitor\OneDrive - Thorengruppen\Skrivbordet\Sun AIO - kopia - kopia\Sun AIO\Auth.GG Example\bin\Release\Newtonsoft.Json.dll
+C:\Users\ygupp20elitor\OneDrive - Thorengruppen\Skrivbordet\Sun AIO - kopia - kopia\Sun AIO\Auth.GG Example\bin\Release\RestSharp.dll
+C:\Users\ygupp20elitor\OneDrive - Thorengruppen\Skrivbordet\Sun AIO - kopia - kopia\Sun AIO\Auth.GG Example\bin\Release\System.Collections.Immutable.dll
+C:\Users\ygupp20elitor\OneDrive - Thorengruppen\Skrivbordet\Sun AIO - kopia - kopia\Sun AIO\Auth.GG Example\bin\Release\System.Interactive.Async.dll
+C:\Users\ygupp20elitor\OneDrive - Thorengruppen\Skrivbordet\Sun AIO - kopia - kopia\Sun AIO\Auth.GG Example\bin\Release\System.Linq.Async.dll
+C:\Users\ygupp20elitor\OneDrive - Thorengruppen\Skrivbordet\Sun AIO - kopia - kopia\Sun AIO\Auth.GG Example\bin\Release\System.Net.Http.Formatting.dll
+C:\Users\ygupp20elitor\OneDrive - Thorengruppen\Skrivbordet\Sun AIO - kopia - kopia\Sun AIO\Auth.GG Example\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ygupp20elitor\OneDrive - Thorengruppen\Skrivbordet\Sun AIO - kopia - kopia\Sun AIO\Auth.GG Example\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\ygupp20elitor\OneDrive - Thorengruppen\Skrivbordet\Sun AIO - kopia - kopia\Sun AIO\Auth.GG Example\bin\Release\websocket-sharp.dll
+C:\Users\ygupp20elitor\OneDrive - Thorengruppen\Skrivbordet\Sun AIO - kopia - kopia\Sun AIO\Auth.GG Example\bin\Release\Discord.Net.Core.xml
+C:\Users\ygupp20elitor\OneDrive - Thorengruppen\Skrivbordet\Sun AIO - kopia - kopia\Sun AIO\Auth.GG Example\bin\Release\Discord.Net.Rest.xml
+C:\Users\ygupp20elitor\OneDrive - Thorengruppen\Skrivbordet\Sun AIO - kopia - kopia\Sun AIO\Auth.GG Example\bin\Release\Discord.Net.Webhook.xml
+C:\Users\ygupp20elitor\OneDrive - Thorengruppen\Skrivbordet\Sun AIO - kopia - kopia\Sun AIO\Auth.GG Example\bin\Release\Discord.Net.WebSocket.xml
+C:\Users\ygupp20elitor\OneDrive - Thorengruppen\Skrivbordet\Sun AIO - kopia - kopia\Sun AIO\Auth.GG Example\bin\Release\DiscordRPC.pdb
+C:\Users\ygupp20elitor\OneDrive - Thorengruppen\Skrivbordet\Sun AIO - kopia - kopia\Sun AIO\Auth.GG Example\bin\Release\DiscordRPC.xml
+C:\Users\ygupp20elitor\OneDrive - Thorengruppen\Skrivbordet\Sun AIO - kopia - kopia\Sun AIO\Auth.GG Example\bin\Release\Leaf.xNet.xml
+C:\Users\ygupp20elitor\OneDrive - Thorengruppen\Skrivbordet\Sun AIO - kopia - kopia\Sun AIO\Auth.GG Example\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ygupp20elitor\OneDrive - Thorengruppen\Skrivbordet\Sun AIO - kopia - kopia\Sun AIO\Auth.GG Example\bin\Release\Newtonsoft.Json.xml
+C:\Users\ygupp20elitor\OneDrive - Thorengruppen\Skrivbordet\Sun AIO - kopia - kopia\Sun AIO\Auth.GG Example\bin\Release\RestSharp.xml
+C:\Users\ygupp20elitor\OneDrive - Thorengruppen\Skrivbordet\Sun AIO - kopia - kopia\Sun AIO\Auth.GG Example\bin\Release\System.Collections.Immutable.xml
+C:\Users\ygupp20elitor\OneDrive - Thorengruppen\Skrivbordet\Sun AIO - kopia - kopia\Sun AIO\Auth.GG Example\bin\Release\System.Interactive.Async.xml
+C:\Users\ygupp20elitor\OneDrive - Thorengruppen\Skrivbordet\Sun AIO - kopia - kopia\Sun AIO\Auth.GG Example\bin\Release\System.Linq.Async.xml
+C:\Users\ygupp20elitor\OneDrive - Thorengruppen\Skrivbordet\Sun AIO - kopia - kopia\Sun AIO\Auth.GG Example\bin\Release\System.Net.Http.Formatting.xml
+C:\Users\ygupp20elitor\OneDrive - Thorengruppen\Skrivbordet\Sun AIO - kopia - kopia\Sun AIO\Auth.GG Example\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ygupp20elitor\OneDrive - Thorengruppen\Skrivbordet\Sun AIO - kopia - kopia\Sun AIO\Auth.GG Example\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\ygupp20elitor\OneDrive - Thorengruppen\Skrivbordet\Sun AIO - kopia - kopia\Sun AIO\Auth.GG Example\obj\Release\Auth.GG Example.csproj.CoreCompileInputs.cache
+C:\Users\ygupp20elitor\OneDrive - Thorengruppen\Skrivbordet\Sun AIO - kopia - kopia\Sun AIO\Auth.GG Example\obj\Release\Auth.GG Example.csproj.CopyComplete
+C:\Users\ygupp20elitor\OneDrive - Thorengruppen\Skrivbordet\Sun AIO - kopia - kopia\Sun AIO\Auth.GG Example\obj\Release\ZuttPal.exe
+C:\Users\ygupp20elitor\OneDrive - Thorengruppen\Skrivbordet\Sun AIO - kopia - kopia\Sun AIO\Auth.GG Example\obj\Release\ZuttPal.pdb
+C:\Users\ygupp20elitor\OneDrive - Thorengruppen\Skrivbordet\Sun AIO - kopia - kopia\Sun AIO\Auth.GG Example\obj\Release\Auth.GG Example.csprojAssemblyReference.cache
+C:\Users\Elias\Desktop\Zutt\Sun AIO\Auth.GG Example\obj\Release\Auth.GG Example.csprojAssemblyReference.cache
+C:\Users\Elias\Desktop\Zutt\Sun AIO\Auth.GG Example\obj\Release\Auth.GG Example.csproj.CoreCompileInputs.cache
+C:\Users\Elias\Desktop\Zutt\Sun AIO\Auth.GG Example\obj\Release\ZuttPal.exe
+C:\Users\Elias\Desktop\Zutt\Sun AIO\Auth.GG Example\obj\Release\ZuttPal.pdb
+C:\Users\Elias\Desktop\Zutt\Sun AIO\Auth.GG Example\bin\Release\ZuttPal.exe.config
+C:\Users\Elias\Desktop\Zutt\Sun AIO\Auth.GG Example\bin\Release\ZuttPal.exe
+C:\Users\Elias\Desktop\Zutt\Sun AIO\Auth.GG Example\bin\Release\ZuttPal.pdb
+C:\Users\Elias\Desktop\Zutt\Sun AIO\Auth.GG Example\bin\Release\Anarchy.dll
+C:\Users\Elias\Desktop\Zutt\Sun AIO\Auth.GG Example\bin\Release\Colorful.Console.dll
+C:\Users\Elias\Desktop\Zutt\Sun AIO\Auth.GG Example\bin\Release\Discord.Net.Core.dll
+C:\Users\Elias\Desktop\Zutt\Sun AIO\Auth.GG Example\bin\Release\Discord.Net.Rest.dll
+C:\Users\Elias\Desktop\Zutt\Sun AIO\Auth.GG Example\bin\Release\Discord.Net.Webhook.dll
+C:\Users\Elias\Desktop\Zutt\Sun AIO\Auth.GG Example\bin\Release\Discord.Net.WebSocket.dll
+C:\Users\Elias\Desktop\Zutt\Sun AIO\Auth.GG Example\bin\Release\DiscordRPC.dll
+C:\Users\Elias\Desktop\Zutt\Sun AIO\Auth.GG Example\bin\Release\Leaf.xNet.dll
+C:\Users\Elias\Desktop\Zutt\Sun AIO\Auth.GG Example\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Elias\Desktop\Zutt\Sun AIO\Auth.GG Example\bin\Release\Newtonsoft.Json.dll
+C:\Users\Elias\Desktop\Zutt\Sun AIO\Auth.GG Example\bin\Release\RestSharp.dll
+C:\Users\Elias\Desktop\Zutt\Sun AIO\Auth.GG Example\bin\Release\System.Collections.Immutable.dll
+C:\Users\Elias\Desktop\Zutt\Sun AIO\Auth.GG Example\bin\Release\System.Interactive.Async.dll
+C:\Users\Elias\Desktop\Zutt\Sun AIO\Auth.GG Example\bin\Release\System.Linq.Async.dll
+C:\Users\Elias\Desktop\Zutt\Sun AIO\Auth.GG Example\bin\Release\System.Net.Http.Formatting.dll
+C:\Users\Elias\Desktop\Zutt\Sun AIO\Auth.GG Example\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Elias\Desktop\Zutt\Sun AIO\Auth.GG Example\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\Elias\Desktop\Zutt\Sun AIO\Auth.GG Example\bin\Release\websocket-sharp.dll
+C:\Users\Elias\Desktop\Zutt\Sun AIO\Auth.GG Example\bin\Release\Discord.Net.Core.xml
+C:\Users\Elias\Desktop\Zutt\Sun AIO\Auth.GG Example\bin\Release\Discord.Net.Rest.xml
+C:\Users\Elias\Desktop\Zutt\Sun AIO\Auth.GG Example\bin\Release\Discord.Net.Webhook.xml
+C:\Users\Elias\Desktop\Zutt\Sun AIO\Auth.GG Example\bin\Release\Discord.Net.WebSocket.xml
+C:\Users\Elias\Desktop\Zutt\Sun AIO\Auth.GG Example\bin\Release\DiscordRPC.pdb
+C:\Users\Elias\Desktop\Zutt\Sun AIO\Auth.GG Example\bin\Release\DiscordRPC.xml
+C:\Users\Elias\Desktop\Zutt\Sun AIO\Auth.GG Example\bin\Release\Leaf.xNet.xml
+C:\Users\Elias\Desktop\Zutt\Sun AIO\Auth.GG Example\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Elias\Desktop\Zutt\Sun AIO\Auth.GG Example\bin\Release\Newtonsoft.Json.xml
+C:\Users\Elias\Desktop\Zutt\Sun AIO\Auth.GG Example\bin\Release\RestSharp.xml
+C:\Users\Elias\Desktop\Zutt\Sun AIO\Auth.GG Example\bin\Release\System.Collections.Immutable.xml
+C:\Users\Elias\Desktop\Zutt\Sun AIO\Auth.GG Example\bin\Release\System.Interactive.Async.xml
+C:\Users\Elias\Desktop\Zutt\Sun AIO\Auth.GG Example\bin\Release\System.Linq.Async.xml
+C:\Users\Elias\Desktop\Zutt\Sun AIO\Auth.GG Example\bin\Release\System.Net.Http.Formatting.xml
+C:\Users\Elias\Desktop\Zutt\Sun AIO\Auth.GG Example\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Elias\Desktop\Zutt\Sun AIO\Auth.GG Example\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\Elias\Desktop\Zutt\Sun AIO\Auth.GG Example\obj\Release\Auth.GG Example.csproj.CopyComplete
+C:\Users\Elias\Desktop\Bot\Zutt\Sun AIO\Auth.GG Example\bin\Release\ZuttPal.exe.config
+C:\Users\Elias\Desktop\Bot\Zutt\Sun AIO\Auth.GG Example\bin\Release\ZuttPal.exe
+C:\Users\Elias\Desktop\Bot\Zutt\Sun AIO\Auth.GG Example\bin\Release\ZuttPal.pdb
+C:\Users\Elias\Desktop\Bot\Zutt\Sun AIO\Auth.GG Example\bin\Release\Anarchy.dll
+C:\Users\Elias\Desktop\Bot\Zutt\Sun AIO\Auth.GG Example\bin\Release\Colorful.Console.dll
+C:\Users\Elias\Desktop\Bot\Zutt\Sun AIO\Auth.GG Example\bin\Release\Discord.Net.Core.dll
+C:\Users\Elias\Desktop\Bot\Zutt\Sun AIO\Auth.GG Example\bin\Release\Discord.Net.Rest.dll
+C:\Users\Elias\Desktop\Bot\Zutt\Sun AIO\Auth.GG Example\bin\Release\Discord.Net.Webhook.dll
+C:\Users\Elias\Desktop\Bot\Zutt\Sun AIO\Auth.GG Example\bin\Release\Discord.Net.WebSocket.dll
+C:\Users\Elias\Desktop\Bot\Zutt\Sun AIO\Auth.GG Example\bin\Release\DiscordRPC.dll
+C:\Users\Elias\Desktop\Bot\Zutt\Sun AIO\Auth.GG Example\bin\Release\Leaf.xNet.dll
+C:\Users\Elias\Desktop\Bot\Zutt\Sun AIO\Auth.GG Example\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Elias\Desktop\Bot\Zutt\Sun AIO\Auth.GG Example\bin\Release\Newtonsoft.Json.dll
+C:\Users\Elias\Desktop\Bot\Zutt\Sun AIO\Auth.GG Example\bin\Release\RestSharp.dll
+C:\Users\Elias\Desktop\Bot\Zutt\Sun AIO\Auth.GG Example\bin\Release\System.Collections.Immutable.dll
+C:\Users\Elias\Desktop\Bot\Zutt\Sun AIO\Auth.GG Example\bin\Release\System.Interactive.Async.dll
+C:\Users\Elias\Desktop\Bot\Zutt\Sun AIO\Auth.GG Example\bin\Release\System.Linq.Async.dll
+C:\Users\Elias\Desktop\Bot\Zutt\Sun AIO\Auth.GG Example\bin\Release\System.Net.Http.Formatting.dll
+C:\Users\Elias\Desktop\Bot\Zutt\Sun AIO\Auth.GG Example\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Elias\Desktop\Bot\Zutt\Sun AIO\Auth.GG Example\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\Elias\Desktop\Bot\Zutt\Sun AIO\Auth.GG Example\bin\Release\websocket-sharp.dll
+C:\Users\Elias\Desktop\Bot\Zutt\Sun AIO\Auth.GG Example\bin\Release\Discord.Net.Core.xml
+C:\Users\Elias\Desktop\Bot\Zutt\Sun AIO\Auth.GG Example\bin\Release\Discord.Net.Rest.xml
+C:\Users\Elias\Desktop\Bot\Zutt\Sun AIO\Auth.GG Example\bin\Release\Discord.Net.Webhook.xml
+C:\Users\Elias\Desktop\Bot\Zutt\Sun AIO\Auth.GG Example\bin\Release\Discord.Net.WebSocket.xml
+C:\Users\Elias\Desktop\Bot\Zutt\Sun AIO\Auth.GG Example\bin\Release\DiscordRPC.pdb
+C:\Users\Elias\Desktop\Bot\Zutt\Sun AIO\Auth.GG Example\bin\Release\DiscordRPC.xml
+C:\Users\Elias\Desktop\Bot\Zutt\Sun AIO\Auth.GG Example\bin\Release\Leaf.xNet.xml
+C:\Users\Elias\Desktop\Bot\Zutt\Sun AIO\Auth.GG Example\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Elias\Desktop\Bot\Zutt\Sun AIO\Auth.GG Example\bin\Release\Newtonsoft.Json.xml
+C:\Users\Elias\Desktop\Bot\Zutt\Sun AIO\Auth.GG Example\bin\Release\RestSharp.xml
+C:\Users\Elias\Desktop\Bot\Zutt\Sun AIO\Auth.GG Example\bin\Release\System.Collections.Immutable.xml
+C:\Users\Elias\Desktop\Bot\Zutt\Sun AIO\Auth.GG Example\bin\Release\System.Interactive.Async.xml
+C:\Users\Elias\Desktop\Bot\Zutt\Sun AIO\Auth.GG Example\bin\Release\System.Linq.Async.xml
+C:\Users\Elias\Desktop\Bot\Zutt\Sun AIO\Auth.GG Example\bin\Release\System.Net.Http.Formatting.xml
+C:\Users\Elias\Desktop\Bot\Zutt\Sun AIO\Auth.GG Example\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Elias\Desktop\Bot\Zutt\Sun AIO\Auth.GG Example\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\Elias\Desktop\Bot\Zutt\Sun AIO\Auth.GG Example\obj\Release\Auth.GG Example.csproj.CoreCompileInputs.cache
+C:\Users\Elias\Desktop\Bot\Zutt\Sun AIO\Auth.GG Example\obj\Release\Auth.GG Example.csproj.CopyComplete
+C:\Users\Elias\Desktop\Bot\Zutt\Sun AIO\Auth.GG Example\obj\Release\ZuttPal.exe
+C:\Users\Elias\Desktop\Bot\Zutt\Sun AIO\Auth.GG Example\obj\Release\ZuttPal.pdb
+C:\Users\Elias\Desktop\Bot\Zutt\Sun AIO\Auth.GG Example\bin\Release\Extreme.Net.dll
+C:\Users\Elias\Desktop\Bot\Zutt\Sun AIO\Auth.GG Example\obj\Release\Auth.GG Example.csprojAssemblyReference.cache
+C:\Users\Elias\OneDrive\Skrivbord\Bot\Zutt\Sun AIO\Auth.GG Example\bin\Release\ZuttPal.exe.config
+C:\Users\Elias\OneDrive\Skrivbord\Bot\Zutt\Sun AIO\Auth.GG Example\bin\Release\ZuttPal.exe
+C:\Users\Elias\OneDrive\Skrivbord\Bot\Zutt\Sun AIO\Auth.GG Example\bin\Release\ZuttPal.pdb
+C:\Users\Elias\OneDrive\Skrivbord\Bot\Zutt\Sun AIO\Auth.GG Example\bin\Release\Anarchy.dll
+C:\Users\Elias\OneDrive\Skrivbord\Bot\Zutt\Sun AIO\Auth.GG Example\bin\Release\Colorful.Console.dll
+C:\Users\Elias\OneDrive\Skrivbord\Bot\Zutt\Sun AIO\Auth.GG Example\bin\Release\Discord.Net.Core.dll
+C:\Users\Elias\OneDrive\Skrivbord\Bot\Zutt\Sun AIO\Auth.GG Example\bin\Release\Discord.Net.Rest.dll
+C:\Users\Elias\OneDrive\Skrivbord\Bot\Zutt\Sun AIO\Auth.GG Example\bin\Release\Discord.Net.Webhook.dll
+C:\Users\Elias\OneDrive\Skrivbord\Bot\Zutt\Sun AIO\Auth.GG Example\bin\Release\Discord.Net.WebSocket.dll
+C:\Users\Elias\OneDrive\Skrivbord\Bot\Zutt\Sun AIO\Auth.GG Example\bin\Release\DiscordRPC.dll
+C:\Users\Elias\OneDrive\Skrivbord\Bot\Zutt\Sun AIO\Auth.GG Example\bin\Release\Extreme.Net.dll
+C:\Users\Elias\OneDrive\Skrivbord\Bot\Zutt\Sun AIO\Auth.GG Example\bin\Release\Leaf.xNet.dll
+C:\Users\Elias\OneDrive\Skrivbord\Bot\Zutt\Sun AIO\Auth.GG Example\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Elias\OneDrive\Skrivbord\Bot\Zutt\Sun AIO\Auth.GG Example\bin\Release\Newtonsoft.Json.dll
+C:\Users\Elias\OneDrive\Skrivbord\Bot\Zutt\Sun AIO\Auth.GG Example\bin\Release\RestSharp.dll
+C:\Users\Elias\OneDrive\Skrivbord\Bot\Zutt\Sun AIO\Auth.GG Example\bin\Release\System.Collections.Immutable.dll
+C:\Users\Elias\OneDrive\Skrivbord\Bot\Zutt\Sun AIO\Auth.GG Example\bin\Release\System.Interactive.Async.dll
+C:\Users\Elias\OneDrive\Skrivbord\Bot\Zutt\Sun AIO\Auth.GG Example\bin\Release\System.Linq.Async.dll
+C:\Users\Elias\OneDrive\Skrivbord\Bot\Zutt\Sun AIO\Auth.GG Example\bin\Release\System.Net.Http.Formatting.dll
+C:\Users\Elias\OneDrive\Skrivbord\Bot\Zutt\Sun AIO\Auth.GG Example\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Elias\OneDrive\Skrivbord\Bot\Zutt\Sun AIO\Auth.GG Example\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\Elias\OneDrive\Skrivbord\Bot\Zutt\Sun AIO\Auth.GG Example\bin\Release\websocket-sharp.dll
+C:\Users\Elias\OneDrive\Skrivbord\Bot\Zutt\Sun AIO\Auth.GG Example\bin\Release\Discord.Net.Core.xml
+C:\Users\Elias\OneDrive\Skrivbord\Bot\Zutt\Sun AIO\Auth.GG Example\bin\Release\Discord.Net.Rest.xml
+C:\Users\Elias\OneDrive\Skrivbord\Bot\Zutt\Sun AIO\Auth.GG Example\bin\Release\Discord.Net.Webhook.xml
+C:\Users\Elias\OneDrive\Skrivbord\Bot\Zutt\Sun AIO\Auth.GG Example\bin\Release\Discord.Net.WebSocket.xml
+C:\Users\Elias\OneDrive\Skrivbord\Bot\Zutt\Sun AIO\Auth.GG Example\bin\Release\DiscordRPC.pdb
+C:\Users\Elias\OneDrive\Skrivbord\Bot\Zutt\Sun AIO\Auth.GG Example\bin\Release\DiscordRPC.xml
+C:\Users\Elias\OneDrive\Skrivbord\Bot\Zutt\Sun AIO\Auth.GG Example\bin\Release\Leaf.xNet.xml
+C:\Users\Elias\OneDrive\Skrivbord\Bot\Zutt\Sun AIO\Auth.GG Example\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Elias\OneDrive\Skrivbord\Bot\Zutt\Sun AIO\Auth.GG Example\bin\Release\Newtonsoft.Json.xml
+C:\Users\Elias\OneDrive\Skrivbord\Bot\Zutt\Sun AIO\Auth.GG Example\bin\Release\RestSharp.xml
+C:\Users\Elias\OneDrive\Skrivbord\Bot\Zutt\Sun AIO\Auth.GG Example\bin\Release\System.Collections.Immutable.xml
+C:\Users\Elias\OneDrive\Skrivbord\Bot\Zutt\Sun AIO\Auth.GG Example\bin\Release\System.Interactive.Async.xml
+C:\Users\Elias\OneDrive\Skrivbord\Bot\Zutt\Sun AIO\Auth.GG Example\bin\Release\System.Linq.Async.xml
+C:\Users\Elias\OneDrive\Skrivbord\Bot\Zutt\Sun AIO\Auth.GG Example\bin\Release\System.Net.Http.Formatting.xml
+C:\Users\Elias\OneDrive\Skrivbord\Bot\Zutt\Sun AIO\Auth.GG Example\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Elias\OneDrive\Skrivbord\Bot\Zutt\Sun AIO\Auth.GG Example\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\Elias\OneDrive\Skrivbord\Bot\Zutt\Sun AIO\Auth.GG Example\obj\Release\Auth.GG Example.csprojAssemblyReference.cache
+C:\Users\Elias\OneDrive\Skrivbord\Bot\Zutt\Sun AIO\Auth.GG Example\obj\Release\Auth.GG Example.csproj.CoreCompileInputs.cache
+C:\Users\Elias\OneDrive\Skrivbord\Bot\Zutt\Sun AIO\Auth.GG Example\obj\Release\Auth.GG Example.csproj.CopyComplete
+C:\Users\Elias\OneDrive\Skrivbord\Bot\Zutt\Sun AIO\Auth.GG Example\obj\Release\ZuttPal.exe
+C:\Users\Elias\OneDrive\Skrivbord\Bot\Zutt\Sun AIO\Auth.GG Example\obj\Release\ZuttPal.pdb
